@@ -2,7 +2,7 @@
   "name": "project-42-front",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shlov.github.io/project-42-front/",
+  "homepage": "https://GoitStudentsWorks.github.io/react_node_fs_60_Shlov/",
   "dependencies": {
     "@cloudinary/react": "^1.11.2",
     "@cloudinary/url-gen": "^1.10.0",
